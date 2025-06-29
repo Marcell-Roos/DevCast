@@ -30,11 +30,7 @@ This project is ideal for:
 
 ## ⚙️ Why Python?
 
-We chose **Python** for its ease of use, cross-platform compatibility, and broad developer familiarity. Our goal is to keep installation, self-hosting, and customization as friendly as possible. The project is built using:
-
-- `Flask`
-- `python-dotenv` for safe handling of secrets
--  `react.js` and `vite` for frontend (in the future)
+We chose **Python** for its ease of use, cross-platform compatibility, and broad developer familiarity. Our goal is to keep installation, self-hosting, and customization as friendly as possible.
 
 ---
 
