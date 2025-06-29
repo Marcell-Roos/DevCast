@@ -41,7 +41,7 @@ We chose **Python** for its ease of use, cross-platform compatibility, and broad
 - 🔍 Platform-specific preview
 - 🔒 Secure local token storage (OAuth 1.0a / 2.0)
 - 🎯 CLI and Web UI support
-- 📦 Easy to self-host or run locally
+- 📦 Easy to run locally
 
 ---
 
